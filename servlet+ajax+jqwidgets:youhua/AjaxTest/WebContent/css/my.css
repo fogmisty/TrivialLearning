@@ -1,0 +1,17 @@
+.button {  
+	width: 80px;  
+    padding:5px;  
+    background-color: #b9b9b9;  
+    border-color: #357ebd;  
+    color: #fff;  
+    -moz-border-radius: 10px;  
+    -webkit-border-radius: 10px;  
+    border-radius: 10px; /* future proofing */  
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */  
+    text-align: center;  
+    vertical-align: middle;  
+    border: 1px solid transparent;  
+    font-weight: 80;  
+    font-size:100%  
+}  
+
